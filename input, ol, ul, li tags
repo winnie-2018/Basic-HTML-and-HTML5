@@ -31,7 +31,7 @@
         <p>Choose a name for your pet</p>
         <input type="radio" checked>Cupcake
         <input type="radio">Cola!
-        <input type="radio">Cannie<br>
+        <input type="radio">Cannie<br><br>
         
         <h3>Checkbox</h3>
         <p>Choose types of pet you like</p>
