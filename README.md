@@ -1,31 +1,31 @@
 # Basic-HTML-and-HTML5
 
-* Lesson 1: Heavy Overview
-* Lesson 2: Headers
+* Lesson 1: [Heavy Overview](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson1_heavyOverview.html)
+* Lesson 2: [Headers](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson2_Headers.html)
   ![Lesson 2](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%202.png)
-* Lesson 3: Paragraph
+* Lesson 3: [Paragraph](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson3_Paragraph.html)
   ![Lesson 3](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%203.png)
-* Lesson 4: Comment
-* Lesson 5: Add Image
+* Lesson 4: [Comment](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson4_comment.html)
+* Lesson 5: [Add Image](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson5_addPicture.html)
   ![Lesson 5](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%205.png)
-* Lesson 6: External and Internal Links
+* Lesson 6: [External and Internal Links](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson6_ExternalLinks.html)
   ![Lesson 6](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%206.png)
-* Lesson 7: Dead Link
+* Lesson 7: [Dead Link](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson7_DeadLink.html)
   ![Lesson 7](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%207.png)
-* Lesson 8: Image as Link
+* Lesson 8: [Image as Link](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson8_ImageAsLink.html)
   ![Lesson 8](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%208.png)
-* Lesson 9: Ordered and Unordered Lists
+* Lesson 9: [Ordered and Unordered Lists](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson9_list.html)
   ![Lesson 9](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%209.png)
-* Lesson 10: Textbox
+* Lesson 10: [Textbox](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson10_textfield.html)
   ![Lesson 10](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%2010.png)
-* Lesson 11: Form Elements
+* Lesson 11: [Form Elements](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson11_formElement.html)
   ![Lesson 11](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%2011.png)
-* Lesson 12: Button
+* Lesson 12: [Button](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson12_button.html)
   ![Lesson 12](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%2012.png)
-* Lesson 13: Radio Button
+* Lesson 13: [Radio Button](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson13_radioButton.html)
   ![Lesson 13](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%2013.png)
-* Lesson 14: Checkbox
+* Lesson 14: [Checkbox](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson14_checkbox.html)
   ![Lesson 14](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/image/Lesson%2014.png)
-* Lesson 15: Head and Body
-* Lesson 16: HTML5 Elements
+* Lesson 15: [Head and Body](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson15_HeadBody.html)
+* Lesson 16: [HTML5 Elements](https://github.com/winnie-2018/Basic-HTML-and-HTML5/blob/master/Lesson16_html5.html)
 
